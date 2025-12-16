@@ -12,3 +12,4 @@ Context: This dataset is originally from the National Institute of Diabetes and 
 Content: The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 We have 768 rows and 9 columns. The first 8 columns represent the features and the last column represent the target/label.
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/Module%205/data/diabetes.csv
